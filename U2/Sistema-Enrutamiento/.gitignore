@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.venv/
+programa/comparacion_resultados.csv
+programa/rutas_optimizadas.csv
+programa/progreso.csv
